@@ -2,7 +2,7 @@ import React from 'react'; // Improt React Library
 import './App.css'; // Links to stylesheet file
 
 //Functional component called Navigation
-//Eeturns nav bar with unordered list with navigation links
+//Returns nav bar with unordered list with navigation links
 
 const Navigation = () => {
     return (
