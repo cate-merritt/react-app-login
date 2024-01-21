@@ -1,0 +1,77 @@
+/* Global styling of body element */
+body {
+  background-color: 110B11;
+  background-image: url("https://w0.peakpx.com/wallpaper/622/373/HD-wallpaper-black-space-black-star-stars.jpg");
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+} 
+
+/* Styling for login form */
+.login-form {
+  border: 5px solid #f5f5dc;
+  background-color: #AD343E; 
+  text-align: center;
+  width: 300px; 
+  padding: 20px; 
+  margin: auto; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Styling for login form heading */
+.login-heading {
+  padding: 15px;
+  margin-top: 0px;
+  text-decoration: underline;
+  font-size: 20px;
+  margin: auto;
+}
+
+/* Styling for button */
+.mybutton {
+  background-color: #27213C;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  margin: auto;
+  margin-top: auto;
+  transition-duration: 0.4s;
+}
+
+/* Styling for button hoover */
+.mybutton:hover {
+  background-color: white; 
+}
+
+/* Styling of navbar */
+.navbar {
+  background-color: #333;
+  margin: auto;
+  margin-bottom: 200px;
+}
+
+/* styling of navbar list */
+.nav-list {
+  list-style: none;
+  padding: 0;
+  display: flex; 
+}
+
+/* Styling for each navbar item */
+.nav-item {
+  margin: 0;
+  padding: 10px;
+}
+
+/* Styling for navbar item links */
+.nav-item a {
+  text-decoration: none;
+  color: white;
+}
+
