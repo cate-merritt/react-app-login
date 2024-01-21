@@ -1,9 +1,6 @@
-In Visual Studio Code, write the code that accomplishes the objectives listed below and ensures that the code compiles and runs as directed.
-Comment your code, to prove that you understand what you have written -- this is required!
-Create a new repository on GitHub for this week's assignments and push your code to the repository.
-Record and Upload a Video showcasing your assignment.
-Keep Track of the URLs for this week's GitHub repository and Video upload.
-Start the Quiz to submit your assignment.
-Put the URL for your GitHub repo into the Quiz
-Put the URL for your Video into the Quiz
-Answer the questions
+Coding Steps:
+Using create-react-app, create a new React project. Create a LoginForm component that contains the following:
+Username and password input fields, an h3 that says Log In, with a border. Style the component using the default generated CSS file.
+Create a Navigation component that contains links styled like a navbar.
+The links don't have to go anywhere.
+Put the Navigation component at the top of the page and the LoginForm in the center of the page.

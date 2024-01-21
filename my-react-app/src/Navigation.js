@@ -1,10 +1,8 @@
-// Navigation.js
-import React from 'react';
-import './App.css'; //links to css styling
+import React from 'react'; // Improt React Library
+import './App.css'; // Links to stylesheet file
 
-
-//functional component called Navigation
-//returns nav bar with unordered list with navigation links
+//Functional component called Navigation
+//Eeturns nav bar with unordered list with navigation links
 
 const Navigation = () => {
     return (
@@ -31,5 +29,4 @@ const Navigation = () => {
     );
   }
 
-  //exports the Navigation component for use in other parts of the applicaiton
-  export default Navigation;
+export default Navigation; // Exports the Navigation component for use in other parts of the applicaiton
